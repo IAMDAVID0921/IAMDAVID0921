@@ -1,5 +1,5 @@
-\# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+[![David Guo's GitHub stats](https://github-readme-stats.vercel.app/api?username=IAMDAVID0921)](https://github.com/IAMDAVID0921/github-readme-stats)
 
 
 <!--
